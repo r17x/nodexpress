@@ -4,3 +4,5 @@
 - [English](https://github.com/ri7nz/nodexpress/blob/master/README.EN.MD)
 
 - [Facebook Group KPM | Komunitas Programmer Makassar](https://www.facebook.com/groups/ProgrammerMakassar/)
+
+- [Kontributor](https://github.com/ri7nz/nodexpress/blob/master/CONTRIBUTING.md)
