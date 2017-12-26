@@ -1,5 +1,9 @@
 ## Tutorials
 
+- Membutuhkan Node dan NPM    
+
+- DIREKOMENDASIKAN ! menggunakan NVM untuk mempermudah memilih versi - versi dari nodejs dan npm   
+
 ```shell
 $ # Kloning repositori ini 
 
