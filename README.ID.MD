@@ -28,9 +28,19 @@ $ mkdir project && cd project
    
 $ npm init project
    
-$ entry point type app.js # this step when init progress
+$ name: (project) _ # nama project
 
-$ # install package expressJs
+$ version: (1.0.0) _ # versi project 
+
+$ description: _ # deskripsikan project anda
+
+$ entry point: (index.js) _ # defaultnya index.js , untuk project belajar nodExpress ini saya gunakan app.js
+
+$ git  repository: _ # isikan dengan alamat repo git , jika ada
+
+$ .....
+
+$ is this ok? (yes) # yes dan enter
 
 $ npm i express --save
 
